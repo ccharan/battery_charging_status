@@ -10,6 +10,10 @@ This code monitors the battery charging status of your device and provides notif
 - **Audio Alerts:** Plays a sound when the battery level exceeds 80% or falls below 40%.
 - **System Notifications:** Displays notifications on the screen for easy visibility.
 
+## UI
+
+<img src="https://github.com/ccharan/battery_charging_status/assets/72061061/7f2e650f-b846-4a99-808f-49093eb9c546" alt="Image" width="500"/>
+
 ## Usage
 
 1. **Clone the Repository:**
@@ -23,12 +27,6 @@ This code monitors the battery charging status of your device and provides notif
 
 ## Run the Code
     python battery_status.py
-
-## Result
-
-![image](https://github.com/ccharan/battery_charging_status/assets/72061061/7f2e650f-b846-4a99-808f-49093eb9c546 | width=300)
-
-
 
 ## Configuration
 
