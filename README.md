@@ -26,7 +26,7 @@ This code monitors the battery charging status of your device and provides notif
 
 ## Result
 
-![image](https://github.com/ccharan/battery_charging_status/assets/72061061/7f2e650f-b846-4a99-808f-49093eb9c546)
+![image](https://github.com/ccharan/battery_charging_status/assets/72061061/7f2e650f-b846-4a99-808f-49093eb9c546 | width=300)
 
 
 
