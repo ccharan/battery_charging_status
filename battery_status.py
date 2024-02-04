@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 import PySimpleGUI as sg
-import battery_ as bt
+import battery as bt
 import time
 import queue
 import threading
